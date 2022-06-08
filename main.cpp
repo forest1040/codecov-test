@@ -15,4 +15,5 @@ int main(void) {
     } else {
         print_not_one();
     }
+    std::cout << "Hello world!\n";
 }
